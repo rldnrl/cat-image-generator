@@ -85,6 +85,11 @@
     max-width: 600px;
   }
   
+  .card img {
+    width: 300px;
+    height: auto;
+  }
+
   .card:hover,
   .card:focus,
   .card:active {

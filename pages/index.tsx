@@ -17,8 +17,6 @@ const Home: NextPage = () => {
           <img
             src="https://cataas.com/cat/cute"
             alt="cat-image"
-            width={300}
-            height={400}
           />
         </div>
       </main>
